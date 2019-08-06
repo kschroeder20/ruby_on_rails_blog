@@ -1,24 +1,4 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Based on [Let's Build: With Ruby On Rails - Blog With Comments](https://www.youtube.com/watch?v=XEkJ3vZb6-Q&list=PL01nNIgQ4uxNkDZNMON-TrzDVNIk3cOz4&index=3) video by Andy Leverenz
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
